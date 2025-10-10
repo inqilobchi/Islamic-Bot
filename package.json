@@ -1,0 +1,21 @@
+{
+  "name": "islomiy",
+  "version": "2.0.0",
+  "description": "maqsadimiz dinimizning mavqeini yana o'z darajasiga qaytarish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "inqilob",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "canvas": "^3.2.0",
+    "dotenv": "^17.2.3",
+    "fastify": "^5.6.1",
+    "moment-timezone": "^0.6.0",
+    "mongoose": "^8.19.1",
+    "node-cron": "^4.2.1",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
