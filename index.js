@@ -192,7 +192,7 @@ const prayerDescriptions = {
   Maghrib: `<b>🌆 Shom namozi vaqti kirdi.</b>\n\n<b>٤٥. وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَٰشِعِينَ
 
 45. Sabr va namoz ila yordam so'rang. Va albatta, u nafsi siniqlardan boshqalarga juda katta ishdir. | Baqara surasi</b>`,
-  Isha: `<b>🌙 Xufton namozi vaqti keldi.</b><b>٤٥. وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَٰشِعِينَ
+  Isha: `<b>🌙 Xufton namozi vaqti keldi.</b>\n\n<b>٤٥. وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَٰشِعِينَ
 
 45. Sabr va namoz ila yordam so'rang. Va albatta, u nafsi siniqlardan boshqalarga juda katta ishdir. | Rum surasi</b>`
 };
